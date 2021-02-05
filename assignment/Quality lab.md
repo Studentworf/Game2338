@@ -1,3 +1,6 @@
+#HW: Quality Lab
+
+
 #the 3 common games that we have selected is- mario bros, minecraft and the first angry birds
 Out of all of them I would say Minecraft is one that I would single out. Because this game has Reusability. 
 The mechanics of the game lets the player build things from large building to underground hovels. 
