@@ -5,8 +5,6 @@
 ### Game Title
 Fire Emblem Three Houses
 Where to find it- https://www.nintendo.com/games/detail/fire-emblem-three-houses-switch/
-The name of the game, subtitle, and the URL or information on how to find
-the game.
 
 ### Rating
 
