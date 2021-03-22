@@ -4,13 +4,11 @@
 
 ### Game Title
 
-The name of the game, subtitle, and the URL or information on how to find
-the game.
+Destiny 2 https://store.steampowered.com/app/1085660/Destiny_2/
 
 ### Rating
 
-Insert your own rating.
-Example: I rate games from 1 to 5 stars and I give this game a 3 star rating.
+i would give this game an 4/5 or 8 out of 10
 
 ## Summary
 
