@@ -20,11 +20,14 @@ From there you would set off the fight the darkness using your abilities to expl
 
 ## Final Thoughts
 
-Describe in as much detail as possible what you did and didn't enjoy about the
-game and list out your reasons why. Remember this is a review and thus should
-stand up to some criticism when making your reasons why you thought this way
-about particular features of the game. This should be at a minimum of 1
-paragraph.
+Destiny 2 is a 5-year-old game that have gone through main changes throughout since its release. From the start you will be able to select 3 races (human Awoken and Exo) and 3 Classes (Titan, Warlock and Hunter) each have a subclass and a new “Darkness” Class which could be classified as Ice. 
+About The powers, there are 4 including the Stasis power, Void, Solar, and arc. Depending on how it was used, It could make or break a moment. However, stasis itself has affected the game in many ways. 
+
+For example, using the abilities have made PVP Much Harder for players. True to its name it freezes the player in place and defeats them when in use, making it a game changer to some and to other players a bane to their gaming day (especially if there is a full team with the Stasis ability at once). While it effects PVP in the way above it effects the enemies in PVE somewhat the same. This changes gameplay in a more strategic way, and sometimes bypassing certain defenses, if not outright breaking them.
+
+On the story part it has evolved with every expansion, changing the threats that the guardians would face from the vex to the cabal, from the hive to the very darkness they oppose. It has gotten to be predictable to some extent but as of late it has shown to have a few surprises for players as time goes on.
+
+In closing the gameplay and the story may have a repetitive nature but the surprises and ever-changing narrative direction makes players come back to see how it would conclude. This and some other factors  had led to me giving this game an 8/10 or an 4/5 respectively.
 
 ## Additional Information
 
