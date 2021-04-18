@@ -66,7 +66,9 @@ _What is the name of the test tool?_
 
 * Ranorex
 https://www.ranorex.com/test-automation-tools/?utm_source=guru99&utm_medium=cpc&utm_campaign=automated-testing-tools
- What company developed this test tool?
+ 
+ 
+What company developed this test tool?
 * Idera, Inc Company
 
 Does this tool do any test case storage/recording? 
