@@ -66,23 +66,21 @@ _What is the name of the test tool?_
 
 * Ranorex
 https://www.ranorex.com/test-automation-tools/?utm_source=guru99&utm_medium=cpc&utm_campaign=automated-testing-tools
-
-_What company developed this test tool?_ 
+ What company developed this test tool?
 * Idera, Inc Company
 
-
-_Does this tool do any test case storage/recording?_ 
+Does this tool do any test case storage/recording? 
 
 * The tool dues have a recorder which is accessible for all the members of the qa team
 
 
-_Does this tool allow tester to link requirements or defects to test cases?
+Does this tool allow tester to link requirements or defects to test cases?
 
 * Yes it does allow the tester to link the defects to the test cases  
 
+If it is an automated tool, does it work with web-based tools? What languages (Java, .NET)?
 
-_If it is an automated tool, does it work with web-based tools? What languages (Java, .NET)?_ 
-Yes it works with web-based tools.It supports C# and VB.NET
+* Yes it works with web-based tools.It supports C# and VB.NET
 
 ### Tool Features
 * Feature One Robust reporting
