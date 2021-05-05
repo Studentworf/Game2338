@@ -5,9 +5,9 @@
 * Test Case ID:
   * 1
 * Test Case Name:
-  * side scrolling mechanics
+  * hide and go seek mechanics
 * Component: 
-  * the game, the controler
+  * the game, the controler, player sprite or avatar
 * Test Case Designer:
   * Larry w Benson
 * Creation Date:
@@ -25,7 +25,9 @@
 ## Test Steps: 
 | # | Description | Expected Result | Check (√) |
 | --- | --- | --- | --- |
-| 1 | The player should be able shot the objects. | Player would have dificulty as game plays on. | |			
+| 1 | The player should be able to find a place hide. | Player would be hidden from seeker. | |			
+| 2 | The player would be able to switch rolls. | Player would be the hiding player or seeker player. | |			
+| 3 | The player should be able to seek opponent. | Player would be able to find the Hidden player. | |			
 
 
 
