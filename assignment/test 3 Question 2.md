@@ -3,7 +3,7 @@
 ## Test Details
 
 * Test Case ID:
-  * 1
+  * 2
 * Test Case Name:
   * hide and go seek mechanics
 * Component: 
